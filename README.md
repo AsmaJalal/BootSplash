@@ -1,3 +1,17 @@
+# Bootsplah screen 
+
+```bash
+$ npm install --save react-native-bootsplash
+# --- or ---
+$ yarn add react-native-bootsplash
+```
+
+## Referance
+ 
+Show a splash screen during app startup. Hide it when you are ready.[**react-native-bootsplash**] (https://www.npmjs.com/package/react-native-bootsplash/v/4.1.5)
+
+ [****](https://github.com/zoontek/react-native-bootsplash)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
