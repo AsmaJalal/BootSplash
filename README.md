@@ -7,11 +7,11 @@ $ yarn add react-native-bootsplash
 ```
 ## Splash Screen
 
-<img src="https://github.com/AsmaJalal/BootSplash/blob/main/assets/Screenshot_1709568248.png" alt="App Screenshot" width="300" height="500" />
+<img src="https://github.com/AsmaJalal/BootSplash/blob/main/assets/Screenshot_1709568248.png" alt="App Screenshot" width="250" height="550" />
 
 ## App logo
 
-<img src="https://github.com/AsmaJalal/BootSplash/blob/main/assets/Screenshot_1709565869.png" alt="App Screenshot" width="300" height="500" />
+<img src="https://github.com/AsmaJalal/BootSplash/blob/main/assets/Screenshot_1709565869.png" alt="App Screenshot" width="250" height="550" />
 
 ## Referance
  
